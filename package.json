@@ -1,0 +1,14 @@
+{
+  "name": "afu-refactoring-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/rental.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Per Flitig",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
+}
